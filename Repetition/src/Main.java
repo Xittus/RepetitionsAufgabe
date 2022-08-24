@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner automat = new Scanner(System.in);
-        Account sparkonto = new Account();
-        Account lohnkonto = new Account();
+        Account sparkonto = new Account(300);
+        Account lohnkonto = new Account(12);
         int konto;
         boolean exit = false;
         while (!exit) {

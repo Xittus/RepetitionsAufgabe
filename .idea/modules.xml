@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RepetitionsAufgabe.iml" filepath="$PROJECT_DIR$/RepetitionsAufgabe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repetition/Repetition.iml" filepath="$PROJECT_DIR$/Repetition/Repetition.iml" />
     </modules>
   </component>
 </project>

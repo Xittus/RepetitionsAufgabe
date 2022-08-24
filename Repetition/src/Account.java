@@ -10,4 +10,7 @@ public class Account {
     public int getBalance() {
         return balance;
     }
+    Account(int balance){
+       this.balance = balance;
+    };
 }
