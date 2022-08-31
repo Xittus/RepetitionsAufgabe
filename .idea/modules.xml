@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayListRegatta/ArrayListRegatta.iml" filepath="$PROJECT_DIR$/ArrayListRegatta/ArrayListRegatta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Invoice/Invoice.iml" filepath="$PROJECT_DIR$/Invoice/Invoice.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Regatta/Regatta.iml" filepath="$PROJECT_DIR$/Regatta/Regatta.iml" />
       <module fileurl="file://$PROJECT_DIR$/Repetition/Repetition.iml" filepath="$PROJECT_DIR$/Repetition/Repetition.iml" />
     </modules>
   </component>

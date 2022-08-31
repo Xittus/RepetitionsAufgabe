@@ -13,4 +13,5 @@ public class Account {
     Account(int balance){
        this.balance = balance;
     };
+    Account(){};
 }
