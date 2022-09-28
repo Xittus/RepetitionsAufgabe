@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" filepath="$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayListRegatta/ArrayListRegatta.iml" filepath="$PROJECT_DIR$/ArrayListRegatta/ArrayListRegatta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gamr/Gamr.iml" filepath="$PROJECT_DIR$/Gamr/Gamr.iml" />
       <module fileurl="file://$PROJECT_DIR$/Invoice/Invoice.iml" filepath="$PROJECT_DIR$/Invoice/Invoice.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regatta/Regatta.iml" filepath="$PROJECT_DIR$/Regatta/Regatta.iml" />
