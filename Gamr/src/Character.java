@@ -1,21 +1,21 @@
 public class Character {
-	
+
 	private String name;
-	
+
 	private int ap = 15;
-	
+
 	private int hp = 100;
-	
+
 	public Character(String name) {
 		this.name = name;
 	}
-	
+
 	public boolean death() {
 		return this.hp <= 0;
 	}
-	
+
 	//Getter and Setter
-	
+
 	public String getName() {
 		return name;
 	}
@@ -42,8 +42,8 @@ public class Character {
 			this.hp = 0;
 		}
 	}
-	
-	
-	
-	
-}	
+
+
+
+
+}
