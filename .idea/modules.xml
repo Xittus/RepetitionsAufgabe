@@ -4,13 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" filepath="$PROJECT_DIR$/AbstractClasses/AbstractClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayListRegatta/ArrayListRegatta.iml" filepath="$PROJECT_DIR$/ArrayListRegatta/ArrayListRegatta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Auto/Auto.iml" filepath="$PROJECT_DIR$/Auto/Auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bibliothek/Bibliothek.iml" filepath="$PROJECT_DIR$/Bibliothek/Bibliothek.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gamr/Gamr.iml" filepath="$PROJECT_DIR$/Gamr/Gamr.iml" />
       <module fileurl="file://$PROJECT_DIR$/Invoice/Invoice.iml" filepath="$PROJECT_DIR$/Invoice/Invoice.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP.iml" filepath="$PROJECT_DIR$/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Regatta/Regatta.iml" filepath="$PROJECT_DIR$/Regatta/Regatta.iml" />
       <module fileurl="file://$PROJECT_DIR$/Repetition/Repetition.iml" filepath="$PROJECT_DIR$/Repetition/Repetition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestRep/TestRep.iml" filepath="$PROJECT_DIR$/TestRep/TestRep.iml" />
       <module fileurl="file://$PROJECT_DIR$/car/car.iml" filepath="$PROJECT_DIR$/car/car.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorphiecar/polymorphiecar.iml" filepath="$PROJECT_DIR$/polymorphiecar/polymorphiecar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycof/recycof.iml" filepath="$PROJECT_DIR$/recycof/recycof.iml" />
     </modules>
   </component>
 </project>
