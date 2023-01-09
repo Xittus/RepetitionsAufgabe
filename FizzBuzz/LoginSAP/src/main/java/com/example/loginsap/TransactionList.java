@@ -15,10 +15,11 @@ public class TransactionList {
 
     public void userLogOut(ActionEvent event) throws IOException {
         Main m = new Main();
-        m.changeScene("sample.fxml");
+        m.changeScene("login.fxml");
     }
 
-    public void userImport(ActionEvent actionEvent) {
-
+    public void userImport(ActionEvent actionEvent) throws IOException {
+        Main m = new Main();
+        m.changeScene("productImport.fxml");
     }
 }

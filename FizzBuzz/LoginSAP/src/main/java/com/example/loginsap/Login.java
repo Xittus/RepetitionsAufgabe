@@ -25,9 +25,9 @@ public class Login {
 
     private void checkLogin() throws IOException {
         Main m = new Main();
-        if (this.username.getText().toString().equals("javacoding") && this.password.getText().toString().equals("123")) {
+        if (this.username.getText().toString().equals("root") && this.password.getText().toString().equals("123")) {
             this.wrongLogIn.setText("Success!");
-            m.changeScene("afterLogin.fxml");
+            m.changeScene("transactionlist.fxml");
         } else if (this.username.getText().isEmpty() && this.password.getText().isEmpty()) {
             this.wrongLogIn.setText("Please enter your data.");
         } else {
