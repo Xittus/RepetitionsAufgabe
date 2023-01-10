@@ -29,8 +29,6 @@
          <Button fx:id="button" layoutX="217.0" layoutY="328.0" mnemonicParsing="false" onAction="#userLogIn" prefHeight="38.0" prefWidth="87.0" style="-fx-background-color: #ffc900;" text="Log In" />
          <Label fx:id="wrongLogIn" layoutX="153.0" layoutY="127.0" textFill="RED" />
          <PasswordField fx:id="password" layoutX="6.0" layoutY="161.0" promptText="Password" />
-         <Button fx:id="exit" layoutX="110.0" layoutY="328.0" mnemonicParsing="false" onAction="#userExit" prefHeight="38.0" prefWidth="87.0" style="-fx-background-color: #ffc900;" text="Exit" />
-         <Button fx:id="reset" layoutX="6.0" layoutY="328.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="87.0" style="-fx-background-color: #ffc900;" text="reset PW" />
       </AnchorPane>
    </center>
 </BorderPane>

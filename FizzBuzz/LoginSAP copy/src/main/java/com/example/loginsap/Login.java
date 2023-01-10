@@ -34,8 +34,4 @@ public class Login {
             this.wrongLogIn.setText("Wrong username or password!");
         }
     }
-
-    public void userExit(ActionEvent actionEvent) {
-        System.exit(0);
-    }
 }
